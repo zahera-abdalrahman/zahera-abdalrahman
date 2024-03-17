@@ -25,7 +25,16 @@
   </a> -->
  </div>
 
+  <hr/>
  
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,cs,dotnet,javascript" />
+</div>
+
+<br/>
+<hr/>
 <!--
 **zahera-abdalrahman/zahera-abdalrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
