@@ -10,7 +10,7 @@
   
  🔭 I’m currently working on expanding my programming knowledge across various languages and frameworks.
 
-💬 Ask me about my experience with Asp.net, Javascript and SQL
+💬 Ask me about my experience with Asp.net core, Javascript and SQL
 
 📫 How to reach me:
 
