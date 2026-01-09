@@ -10,7 +10,7 @@
   
  🔭 I’m currently working on expanding my programming knowledge across various languages and frameworks.
 
-💬 Ask me about my experience with Asp.net core, Javascript and SQL
+💬 Ask me about my experience with Asp.net core, Angular and SQL
 
 📫 How to reach me:
 
@@ -30,7 +30,7 @@
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,cs,dotnet,javascript" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,cs,dotnet,javascript,angular" />
 </div>
 
 <br/>
